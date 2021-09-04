@@ -5,7 +5,7 @@ Hello Everone, I designed `Counter` Using Vanila Javascript.
 
 In Developr days.
 
-## For Privew Visit this
+## Live (Click Link to View)
 
 https://dev-days-counter.netlify.com
 
