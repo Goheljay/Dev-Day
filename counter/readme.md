@@ -5,6 +5,10 @@ Hello Everone, I designed `Counter` Using Vanila Javascript.
 
 In Developr days.
 
+## For Privew Visit this
+
+https://dev-days-counter.netlify.com
+
 ## Demo
 
 Demo GIF of week 1 challange counter
