@@ -35,7 +35,7 @@ Web View
 ![App Screenshot](img/counter.JPG)
 
 
-![App Screenshot](img/counter.JPG) 
+![App Screenshot](img/mobile.JPG) 
 
 
   
