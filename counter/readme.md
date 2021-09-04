@@ -1,13 +1,19 @@
 
-# JS Counter
+# JS Counter (Week 1)
 
 Hello Everone, I designed `Counter` Using Vanila Javascript.
 
-For Developr days.
+In Developr days.
 
 ## Demo
 
-Insert gif or link to demo
+Demo GIF of week 1 challange counter
+
+![App video](counter.gif)
+
+
+## Full Video
+https://drive.google.com/file/d/1cUergUehNmxNd_V2pX4CJ7vMuDdtre51/view
 
   
 ## 🚀 About Me
@@ -25,7 +31,11 @@ I'm an Android developer and Fullsatck developer...
   
 ## Screenshots
 
-![App Screenshot](counter.JPG)
-![App video](counter.mp4)
+Web View
+![App Screenshot](img/counter.JPG)
+
+
+![App Screenshot](img/counter.JPG) 
+
 
   
