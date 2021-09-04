@@ -9,7 +9,7 @@ In Developr days.
 
 Demo GIF of week 1 challange counter
 
-![App video](counter.gif)
+![App video](img/counter.gif)
 
 
 ## Full Video
