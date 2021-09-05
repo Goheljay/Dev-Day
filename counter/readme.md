@@ -3,11 +3,17 @@
 
 Hello Everone, I designed `Counter` Using Vanila Javascript.
 
-In Developr days.
+A Simple Interactive Web Calculator App .
+
+MADE for Challange1 under DevelopersDay 5 week long Bootcamp + Hackathon.
 
 ## Live (Click Link to View)
 
 https://dev-days-counter.netlify.com
+
+## Tech stack
+
+Html, css, Javascript
 
 ## Demo
 
