@@ -1,70 +1,52 @@
-# Getting Started with Create React App
+# Portfolio(Week 1)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Hello Everone, I designed `Portfolio` Using React Js Javascript.
 
-## Available Scripts
+A Interactive Web Portfolio App .
 
-In the project directory, you can run:
+MADE for Challange1 under DevelopersDay 5 week long Bootcamp + Hackathon.
 
-### `yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Tech stack
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Html, css, JSX, Node, react JS.
 
-### `yarn test`
+## How to Use it
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+ Clone this repo using Git
 
-### `yarn build`
+ After open repo in CMD
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+ Write Following code
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+ `npm install`
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+ `npm Start`
 
-### `yarn eject`
+## Full Video
+https://drive.google.com/file/d/1CF6c0D4ehUUbDgqMNGJk6hvn_UAG0mag/view
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+  
+## 🚀 About Me
+My Name is Jay Gohel. 
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+I'm an Android developer and Fullsatck developer...
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+  
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jaygohel.netlify.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/goheljay)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Jaygohel2001)
 
-## Learn More
+  
+## Screenshots
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Web View
+![App Screenshot](img/counter.JPG)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+![App Screenshot](img/mobile.JPG) 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+  
